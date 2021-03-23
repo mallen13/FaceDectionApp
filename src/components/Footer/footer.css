@@ -1,0 +1,13 @@
+footer {
+    margin-top: 40px;
+    color: white;
+}
+
+footer a {
+    color: white;
+}
+
+footer a:hover, footer a:active {
+    color: lightgray;
+
+}

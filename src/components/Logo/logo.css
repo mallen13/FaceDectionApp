@@ -1,0 +1,19 @@
+.Tilt {
+    width: 125px;
+    height: 125px;
+    padding: 5px;
+}
+
+@media only screen and (max-width: 320px) {
+    .Tilt {
+        width: 100px;
+        height: 100px;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .Tilt {
+        width: 175px;
+        height: 175px;
+    }
+  }
