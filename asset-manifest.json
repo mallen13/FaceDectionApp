@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/FaceDetectionApp/static/css/main.36b686c8.chunk.css",
+    "main.js": "/FaceDetectionApp/static/js/main.423344db.chunk.js",
+    "main.js.map": "/FaceDetectionApp/static/js/main.423344db.chunk.js.map",
+    "runtime-main.js": "/FaceDetectionApp/static/js/runtime-main.d351aa06.js",
+    "runtime-main.js.map": "/FaceDetectionApp/static/js/runtime-main.d351aa06.js.map",
+    "static/js/2.13b458d0.chunk.js": "/FaceDetectionApp/static/js/2.13b458d0.chunk.js",
+    "static/js/2.13b458d0.chunk.js.map": "/FaceDetectionApp/static/js/2.13b458d0.chunk.js.map",
+    "static/js/3.22e88eea.chunk.js": "/FaceDetectionApp/static/js/3.22e88eea.chunk.js",
+    "static/js/3.22e88eea.chunk.js.map": "/FaceDetectionApp/static/js/3.22e88eea.chunk.js.map",
+    "index.html": "/FaceDetectionApp/index.html",
+    "static/css/main.36b686c8.chunk.css.map": "/FaceDetectionApp/static/css/main.36b686c8.chunk.css.map",
+    "static/js/2.13b458d0.chunk.js.LICENSE.txt": "/FaceDetectionApp/static/js/2.13b458d0.chunk.js.LICENSE.txt",
+    "static/media/logo.3c6a08cf.svg": "/FaceDetectionApp/static/media/logo.3c6a08cf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d351aa06.js",
+    "static/js/2.13b458d0.chunk.js",
+    "static/css/main.36b686c8.chunk.css",
+    "static/js/main.423344db.chunk.js"
+  ]
+}
