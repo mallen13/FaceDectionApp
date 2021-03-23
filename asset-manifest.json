@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/FaceDetectionApp/static/css/main.36b686c8.chunk.css",
-    "main.js": "/FaceDetectionApp/static/js/main.423344db.chunk.js",
-    "main.js.map": "/FaceDetectionApp/static/js/main.423344db.chunk.js.map",
-    "runtime-main.js": "/FaceDetectionApp/static/js/runtime-main.d351aa06.js",
-    "runtime-main.js.map": "/FaceDetectionApp/static/js/runtime-main.d351aa06.js.map",
-    "static/js/2.13b458d0.chunk.js": "/FaceDetectionApp/static/js/2.13b458d0.chunk.js",
-    "static/js/2.13b458d0.chunk.js.map": "/FaceDetectionApp/static/js/2.13b458d0.chunk.js.map",
-    "static/js/3.22e88eea.chunk.js": "/FaceDetectionApp/static/js/3.22e88eea.chunk.js",
-    "static/js/3.22e88eea.chunk.js.map": "/FaceDetectionApp/static/js/3.22e88eea.chunk.js.map",
-    "index.html": "/FaceDetectionApp/index.html",
-    "static/css/main.36b686c8.chunk.css.map": "/FaceDetectionApp/static/css/main.36b686c8.chunk.css.map",
-    "static/js/2.13b458d0.chunk.js.LICENSE.txt": "/FaceDetectionApp/static/js/2.13b458d0.chunk.js.LICENSE.txt",
-    "static/media/logo.3c6a08cf.svg": "/FaceDetectionApp/static/media/logo.3c6a08cf.svg"
+    "main.css": "/FaceDectionApp/static/css/main.36b686c8.chunk.css",
+    "main.js": "/FaceDectionApp/static/js/main.423344db.chunk.js",
+    "main.js.map": "/FaceDectionApp/static/js/main.423344db.chunk.js.map",
+    "runtime-main.js": "/FaceDectionApp/static/js/runtime-main.74cd23db.js",
+    "runtime-main.js.map": "/FaceDectionApp/static/js/runtime-main.74cd23db.js.map",
+    "static/js/2.e11a4d35.chunk.js": "/FaceDectionApp/static/js/2.e11a4d35.chunk.js",
+    "static/js/2.e11a4d35.chunk.js.map": "/FaceDectionApp/static/js/2.e11a4d35.chunk.js.map",
+    "static/js/3.22e88eea.chunk.js": "/FaceDectionApp/static/js/3.22e88eea.chunk.js",
+    "static/js/3.22e88eea.chunk.js.map": "/FaceDectionApp/static/js/3.22e88eea.chunk.js.map",
+    "index.html": "/FaceDectionApp/index.html",
+    "static/css/main.36b686c8.chunk.css.map": "/FaceDectionApp/static/css/main.36b686c8.chunk.css.map",
+    "static/js/2.e11a4d35.chunk.js.LICENSE.txt": "/FaceDectionApp/static/js/2.e11a4d35.chunk.js.LICENSE.txt",
+    "static/media/logo.3c6a08cf.svg": "/FaceDectionApp/static/media/logo.3c6a08cf.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d351aa06.js",
-    "static/js/2.13b458d0.chunk.js",
+    "static/js/runtime-main.74cd23db.js",
+    "static/js/2.e11a4d35.chunk.js",
     "static/css/main.36b686c8.chunk.css",
     "static/js/main.423344db.chunk.js"
   ]
